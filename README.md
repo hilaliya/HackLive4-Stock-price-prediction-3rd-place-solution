@@ -7,3 +7,9 @@ For more detail about the problem statement please visit: https://datahack.analy
 This solution approach ranked 3rd (hilal1) in Hacklive 4.
 
 ![rank.png](attachment:rank.png)
+Format: ![Alt Text](url)
+
+
+```python
+
+```
