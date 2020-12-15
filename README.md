@@ -1,4 +1,4 @@
-# HackLive-4-Stock-Price-Prediction (3rd position)
+# HackLive-4-Stock-Price-Prediction (3rd place solution)
 
 Accurate prediction of stock market returns is a very challenging task due to volatile and non-linear nature of the financial stock markets.   Here,  provided dataset of a public stock market for 104 stocks, the challenge is to forecast the future closing prices for these stocks for the next 2 months.
 
